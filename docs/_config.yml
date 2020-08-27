@@ -23,7 +23,7 @@ email: dilumdesilva.ovi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal blog. In near future you will be able to read
   some cool tech posts.
-baseurl: "/DilumsBlog" # the subpath of your site, e.g. /blog
+baseurl: "/DilumsBlog/about" # the subpath of your site, e.g. /blog
 url: "https://dilum1995.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dilum_de
 github_username:  dilum1995
